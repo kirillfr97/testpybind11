@@ -4,3 +4,6 @@
 [submodule "Pybind/lib/pybind11"]
 	path = Pybind/lib/pybind11
 	url = https://github.com/pybind/pybind11
+[submodule "Pybind/TestPybind11/lib/pybind11"]
+	path = Pybind/TestPybind11/lib/pybind11
+	url = https://github.com/pybind/pybind11
