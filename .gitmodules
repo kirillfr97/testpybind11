@@ -7,3 +7,6 @@
 [submodule "Pybind/TestPybind11/lib/pybind11"]
 	path = Pybind/TestPybind11/lib/pybind11
 	url = https://github.com/pybind/pybind11
+[submodule "Pybind/lib/eigen"]
+	path = Pybind/lib/eigen
+	url = https://github.com/eigenteam/eigen-git-mirror
